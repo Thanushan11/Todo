@@ -1,0 +1,22 @@
+
+  .todo input {
+    height: 40px;
+    width: 75%;
+    margin-right: 10px; 
+}
+  
+  .todo button {
+    height: 40px;
+    background-color: #007bff; 
+    margin:auto;
+    width: 200px;
+    color: white; 
+    border: none;
+    cursor: pointer;
+    padding: 0 15px; 
+  }
+  
+  .todo button:hover {
+    background-color: #0056b3; 
+  }
+  
